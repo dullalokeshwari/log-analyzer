@@ -1,0 +1,4 @@
+==== Log Summary Report ====
+INFO messages: 4
+WARNING messages: 2
+ERROR messages: 3
